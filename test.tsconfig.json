@@ -24,7 +24,7 @@
     "target": "ESNext",
     "rootDir": "./src",
     "outDir": "./dist",
-    "types": ["@types/node"],
+    "types": ["@types/node", "@types/jest"],
     "plugins": [
       {
         "name": "typescript-eslint-language-service"

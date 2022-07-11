@@ -1,4 +1,4 @@
-import { Result } from '@src/index';
+import type { Result } from '../src/index';
 
 describe('Success Tests', () => {
   it('Should create a result instance that is successful', () => {
